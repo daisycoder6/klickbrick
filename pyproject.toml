@@ -2,7 +2,7 @@
 name = "klickbrick"
 version = "0.1.0"
 description = ""
-authors = ["daisycoder <mkellyt@gmail.com>"]
+authors = ["daisycoder "]
 
 [tool.poetry.dependencies]
 python = "^3.7"
